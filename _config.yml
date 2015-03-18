@@ -2,7 +2,7 @@
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
 workshop_repo   : "https://github.com/alonzi/2015-04-16-uvalib"
-workshop_site   : "http://alonzi.github.io/2015-04-16-uvalib"
+workshop_site   : "http://alonzi.github.io/2015-04-16-uvalib/"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
